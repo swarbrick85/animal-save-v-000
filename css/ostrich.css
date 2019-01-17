@@ -12,7 +12,7 @@ html {
 
 @media all and (max-width: 1080px) {
   
-  #navbar nav a {
-    display: none;
+  #ostrich {
+    top: 0;
   }
 
