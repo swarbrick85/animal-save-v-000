@@ -10,3 +10,9 @@ html {
 
 /* Write your solution here */
 
+@media all and (max-width: 1335px) {
+  
+  #ostrich {
+    top: -65px;
+  }
+}
